@@ -1,0 +1,20 @@
+header{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+main{
+    font-family:'Times New Roman', Times, serif;
+    background-color: white;
+
+}
+footer{
+    font-family:'Times New Roman', Times, serif;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-color: blueviolet;
+}
