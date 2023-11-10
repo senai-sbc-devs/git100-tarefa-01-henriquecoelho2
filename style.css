@@ -4,11 +4,12 @@ header{
 }
 main{
     font-family:'Times New Roman', Times, serif;
-    background-color: white;
+    background-color:rgb(181, 111, 255);
 
 }
 footer{
     font-family:'Times New Roman', Times, serif;
+    font-style:oblique;
     position: fixed;
     left: 0;
     bottom: 0;
